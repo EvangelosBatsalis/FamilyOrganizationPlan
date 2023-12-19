@@ -14,16 +14,18 @@ They will be split equally expenses.
 
 
 # Divorced family organizations plan
-1. when a parent deletes something it needs two for validation.
-2. children can add expenses but both parents must be accepted.
+1. when a parent deletes something it needs two to aprove for validation.
+2. children can add expenses but both parents must validate the transaction.
 3. children can add document for digital sign up e.g. school papers for school needs etc.
-4. parents can digital sign up papers from any kind
-5. my target is for divorced parents to be able to make transactions for the children and/or each other without the need to meet.
-6. report about expenses and documents (most layers asked for this on court)
+4. parents can digital sign up papers from any kind.
+
+my target is for divorced parents to be able to make transactions for the children and/or each other without the need to meet.
+
+5. report about expenses and documents (most lawyers aske for this kind of files in courthouses)
 
 # another idea 1
-1. diary for adults and children
-2. with ai cooking ideas
+1. nutrition adults and children
+2. ai cooking ideas
 
 the module will compare every market and find the most inexpensive cost of grocery list and might coop with wolt to directly add the shopping cart and make the order.
 
