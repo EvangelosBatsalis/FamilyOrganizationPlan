@@ -6,14 +6,14 @@ Project about family organization plan. More specifically: toDo lists including 
 # for friends:
 They will be split equally expenses.
 
-#for families:
+# for families:
 1. House toDo list plans separated by parents, and children. (on feature version will add grandparents, nanny, and cleaning lady).
 2. Grocery store list with check boxes (separated by each family member).at future version it can be added another module which will be implement the grocery list with wolt to make instant order.
 3. Common calendar for appoints and family needs including children.
 5. split expenses include children's expenses. when a child add an expense a parent or parents must approve it first before added to money split.
 
 
-# D⅕ivorced family organizations plan
+# Divorced family organizations plan
 1. when a parent deletes something it needs two for validation.
 2. children can add expenses but both parents must be accepted.
 3. children can add document for digital sign up e.g. school papers for school needs etc.
