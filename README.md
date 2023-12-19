@@ -21,11 +21,11 @@ They will be split equally expenses.
 5. my target is for divorced parents to be able to make transactions for the children and/or each other without the need to meet.
 6. report about expenses and documents (most layers asked for this on court)
 
-# featured and different side module
+# another idea 1
 1. diary for adults and children
 2. with ai cooking ideas
 
 the module will compare every market and find the most inexpensive cost of grocery list and might coop with wolt to directly add the shopping cart and make the order.
 
-# another idea
-in Holland I visited they scanned the barcodes from super market and the barcode game them the galories and if they are good or bad for health or if it'd vegan of not.I am considering this to be like open contribute because it's difficult to track all food in the market. In addition I would like to use ai to give the person who scanned the barcode to make food ingredients ideas for cooking.
+# another idea 2
+in Holland I they scan the barcodes from super market and the barcode is giving them the galories of the product and if they are good or bad for health or if it's vegan of not.I am considering this to be like open contribute because it's difficult to track all food in the market. In addition I would like to use ai to give the person who scanned the barcode some food ingredient ideas for cooking.
